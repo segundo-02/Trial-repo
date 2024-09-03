@@ -1,3 +1,3 @@
 # DEMO
 
-This is a Discription.
+This is a Description 
